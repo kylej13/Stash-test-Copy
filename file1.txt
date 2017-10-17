@@ -1,3 +1,5 @@
 This is the first file
 
 new line
+
+second new line
